@@ -17,7 +17,7 @@ Reviewed and studied advanced tree-based models:
 ---
 
 ### 🔹 Regression Analysis Team Leader *(Sep 2023 – Dec 2023)*  
-**Lecture Note**: [Regression Analysis Note](https://github.com/Kim-Bogeun/Regression_Analysis_Note)  
+**Lecture Note**: [Regression Analysis Note](https://github.com/Kim-Bogeun/P-SAT_Record/tree/main/Regression_Analysis_Note)  
 Topics covered: Endogeneity, Spatial Regression
 
 **Project**: [YouTube-Based Book Recommendation System](https://github.com/Kim-Bogeun/Youtube-based_Book_Recommendation_System)  
@@ -27,12 +27,12 @@ Techniques: Labeled-LDA, PageRank, SBert, Empirical Bayes
 
 ### 🔹 President *(Dec 2023 – Jul 2024)*  
 
-**[Lead off](https://github.com/Kim-Bogeun/P-SAT_Lead-off)** — Theory Study Sessions  
+**[Lead off](https://github.com/Kim-Bogeun/P-SAT_Record/tree/main/P-SAT_Lead_off)** — Theory Study Sessions  
 - Led weekly sessions focused on mathematical foundations for statistics  
 - Created lecture notes & problem sets on:
   - Linear Algebra  
   - Optimization  
   - Calculus  
 
-**[Package Homework](https://github.com/Kim-Bogeun/P-SAT_Package-Homework)**  
+**[Package Homework](https://github.com/Kim-Bogeun/P-SAT_Record/tree/main/P-SAT_Package-Homework)**  
 - Designed and wrote problem sets centered on machine learning theory
